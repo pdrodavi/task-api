@@ -13,7 +13,7 @@ import java.util.List;
 @RestController
 @RequestMapping("/api/todos")
 //@CrossOrigin("http://localhost:4200")
-@CrossOrigin("https://pdrodavi.github.io/task-app-front")
+@CrossOrigin("https://pdrodavi.github.io/task-app")
 public class TodoController {
 
     @Autowired
