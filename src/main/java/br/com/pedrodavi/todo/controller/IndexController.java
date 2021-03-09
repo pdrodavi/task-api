@@ -10,7 +10,7 @@ public class IndexController {
 
     @GetMapping
     public String index() {
-        return "API Tasks APP";
+        return "swagger-ui.html";
     }
 
 }
